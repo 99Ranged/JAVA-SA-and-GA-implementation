@@ -3,6 +3,8 @@ A faculty project where the main goal was to solve the bin-packing problem using
 
 On the Container_allocation_interface folder you may find an implementation using JSwing for ruling the parameters used in each algorithm.
 
+On the root folder, you may find the file "Interface_implementation" which is a runnable jar file for the jswing interface regarding this project.
+
 A description of the problem can be found below:
 
 You are given a set of N objects, and for each one of these objects I the weight W(I) is known. You have an unlimited supply of containers, each of capacity Cj. The goal is to put each object into a container in such a way that we do not exceed the capacity of any
