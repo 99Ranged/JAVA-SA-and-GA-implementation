@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Intelligent systems/Interface_Alg/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Intelligent systems/Interface_Alg/dist/lib/gnujaxp.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Intelligent systems/Interface_Alg/dist/lib/itext-1.4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Intelligent systems/Interface_Alg/dist/lib/jcommon-1.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Intelligent systems/Interface_Alg/dist/lib/jfreechart-1.0.2-experimental.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Intelligent systems/Interface_Alg/dist/lib/jfreechart-1.0.2.jar" sourcepath="E:/Intelligent systems/interface_original/dist/lib/jfreechart-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Intelligent systems/Interface_Alg/dist/lib/swing-layout-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
